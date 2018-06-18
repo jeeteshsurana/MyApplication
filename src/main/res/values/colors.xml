@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>
+    <color name="colorAccent">#FF4081</color>-->
+    <!--<color name="colorPrimaryDark">#323232</color>-->
+
+    <color name="colorPrimary">#D53A3A</color>
+    <color name="colorPrimaryDark">#D90017</color>
+    <color name="colorAccent">#7C7B7B</color>
+
+
+    <color name="colorAppBlack">#000000</color>
+
+    <color name="colorOrange">#FFCC00</color>
+    <color name="colorGreen">#00CC00</color>
+    <color name="colorRed">#FF0000</color>
+    <color name="colorStroke">#C5C5C5</color>
+    <color name="colorSilver">#F6F6F6</color>
+    <color name="colorSendBG">#EFEFEF</color>
+
+
+    <color name="coloricon">#7C7B7B</color>
+    <color name="colorGreyicon">#7C7B7B</color>
+    <color name="buttoncolor">#6375FD</color>
+    <color name="DarkButtonColor">#1D2A8B</color>
+    <color name="OtherGreenColor">#4CD964</color>
+    <color name="GreenColor">#4CD964</color>
+    <color name="BlueColor">#1D2A8B</color>
+    <color name="LightBlueColor">#6375FD</color>
+    <color name="YellowColor">#FFCC1D</color>
+
+    <color name="colorRouteLine">#E57373</color>
+
+
+    <color name="Green">#1b5e20</color>
+    <color name="GreenLight">#27E661</color>
+    <color name="facebook_Color">#476BA6</color>
+
+    <color name="colorLWhite">#FAFAFA</color>
+    <color name="colorlightGrey">#F5F5F5</color>
+    <color name="colorLightM0Grey">#E0E0E0</color>
+    <color name="colorMediumGrey">#9E9E9E</color>
+    <color name="colorGrey">#CFD8DC</color>
+    <color name="colorLittleGrey">#ECEFF1</color>
+    <color name="background_holo_light">#7F000000</color>
+
+    <color name="colorRedDark">#B71C1C</color>
+    <color name="colorDeepOrangeDark">#BF360C</color>
+    <color name="colorOrangeDark">#E65100</color>
+    <color name="colorPinkDark">#880E4F</color>
+    <color name="colorBlueDark">#1A237E</color>
+    <color name="colorTealDark">#004D40</color>
+    <color name="colorPurpleDark">#4A148C</color>
+    <color name="colorGreenDark">#1B5E20</color>
+    <color name="colorBrownDark">#3E2723</color>
+    <color name="colorGold">#ffd700</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="fuchsia">#FF00FF</color>
+    <color name="red">#FF0000</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="gray">#808080</color>
+    <color name="olive">#808000</color>
+    <color name="purple">#800080</color>
+    <color name="maroon">#800000</color>
+    <color name="aqua">#00FFFF</color>
+    <color name="lime">#00FF00</color>
+    <color name="teal">#008080</color>
+    <color name="green">#008000</color>
+    <color name="blue">#0000FF</color>
+    <color name="navy">#000080</color>
+    <color name="black">#000000</color>
+
+    <color name="color300Red">#E57373</color>
+    <color name="color300DeepOrange">#FF8A65</color>
+    <color name="color3000Orange">#FFB74D</color>
+    <color name="color300Pink">#F06292</color>
+    <color name="color300Blue">#64B5F6</color>
+    <color name="color300Teal">#4DB6AC</color>
+    <color name="color300Purple">#BA68C8</color>
+    <color name="color300Green">#81C784</color>
+    <color name="color300Brown">#A1887F</color>
+    <color name="color300BlueGrey">#90A4AE</color>
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="colorBlueGreyDark">#37474F</color>
+    <color name="colorBlueGreySuperDark">#263238</color>
+    <color name="duskYellow">#A69D62</color>
+
+    <!--GrapeFruit-->
+    <color name="GrapeFruitLight">#ED5565</color>
+    <color name="GrapeFruitDark">#DA4453</color>
+
+    <!--BitterSweet-->
+    <color name="BitterSweetlight">#FC6E51</color>
+    <color name="BitterSweetDark">#E9573F</color>
+
+    <!--Sunflower-->
+    <color name="SunflowerLight">#FFCE54</color>
+    <color name="SunflowerDark">#F6BB42</color>
+
+    <!--Grass-->
+    <color name="GrassLight">#A0D468</color>
+    <color name="GrassDark">#8CC152</color>
+
+    <!--Mint-->
+    <color name="MintLight">#48CFAD</color>
+    <color name="MintDark">#37BC9B</color>
+
+    <!--Aqua-->
+    <color name="AquaLight">#4FC1E9</color>
+    <color name="AquaDark">#3BAFDA</color>
+
+    <!--BlueJeans-->
+    <color name="BlueJeansLight">#5D9CEC</color>
+    <color name="BlueJeansDark">#4A89DC</color>
+
+    <!--Lavander-->
+    <color name="LavanderLight">#AC92EC</color>
+    <color name="LavanderDark">#967ADC</color>
+
+    <!--PinkRose-->
+    <color name="PinkRoseLight">#EC87C0</color>
+    <color name="PinkRoseDark">#D770AD</color>
+
+    <!--LightGray-->
+    <color name="LightGrayLight">#F5F7FA</color>
+    <color name="LightGrayDark">#E6E9ED</color>
+
+    <!--MediumGray-->
+    <color name="MediumGrayLight">#CCD1D9</color>
+    <color name="MediumGrayDark">#AAB2BD</color>
+
+    <!--DarkGray-->
+    <color name="DarkGrayLight">#656D78</color>
+    <color name="DarkGrayDark">#434A54</color>
+
+    <color name="transparentBlack">#80000000</color>
+
+    <color name="transparent100">#FF000000</color>
+    <color name="transparent90">#E6000000</color>
+    <color name="transparent85">#D9000000</color>
+    <color name="transparent80">#CC000000</color>
+    <color name="transparent75">#BF000000</color>
+    <color name="transparent70">#B3000000</color>
+    <color name="transparent65">#A6000000</color>
+    <color name="transparent60">#99000000</color>
+    <color name="transparent55">#8C000000</color>
+    <color name="transparent50">#80000000</color>
+    <color name="transparent45">#73000000</color>
+    <color name="transparent40">#66000000</color>
+    <color name="transparent35">#59000000</color>
+    <color name="transparent30">#4D000000</color>
+    <color name="transparent25">#40000000</color>
+    <color name="transparent20">#33000000</color>
+    <color name="transparent15">#26000000</color>
+    <color name="transparent10">#1A000000</color>
+    <color name="transparent5">#0D000000</color>
+    <color name="transparent">#00000000</color>
+
+    <!--Here's a correct table of percentages to hex values. E.g. for 50% white you'd use #80FFFFFF.-->
+
+
+    <!--100% — FF-->
+    <!--95% — F2-->
+    <!--90% — E6-->
+    <!--85% — D9-->
+    <!--80% — CC-->
+    <!--75% — BF-->
+    <!--70% — B3-->
+    <!--65% — A6-->
+    <!--60% — 99-->
+    <!--55% — 8C-->
+    <!--50% — 80-->
+    <!--45% — 73-->
+    <!--40% — 66-->
+    <!--35% — 59-->
+    <!--30% — 4D-->
+    <!--25% — 40-->
+    <!--20% — 33-->
+    <!--15% — 26-->
+    <!--10% — 1A-->
+    <!--5% — 0D-->
+    <!--0% — 00-->
+
+</resources>

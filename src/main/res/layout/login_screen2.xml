@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center"
+    tools:ignore="RtlCompat">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp">
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/log_EmailAddress_"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Email">
+
+            <android.support.design.widget.TextInputEditText
+                android:id="@+id/log_EmailAddress"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_email_black_24dp"
+                android:drawablePadding="15dp"
+                android:inputType="textEmailAddress" />
+
+        </android.support.design.widget.TextInputLayout>
+
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/log_password_"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/log_EmailAddress_"
+            android:layout_marginTop="5dp"
+            android:hint="Password">
+
+            <android.support.design.widget.TextInputEditText
+                android:id="@+id/log_password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_vpn_key_black_24dp"
+                android:drawablePadding="15dp"
+                android:inputType="textPassword" />
+
+        </android.support.design.widget.TextInputLayout>
+
+        <ImageView
+            android:id="@+id/showPassword"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/log_EmailAddress_"
+            android:layout_marginEnd="10dp"
+            android:layout_marginTop="30dp" />
+
+        <Button
+            android:id="@+id/SignIn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/log_password_"
+            android:layout_marginTop="20dp"
+            android:background="@color/Green"
+            android:elevation="10dp"
+            android:padding="5dp"
+            android:text="Login"
+            android:textAllCaps="true"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/new_user"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/SignIn"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:text="New User?" />
+
+        <TextView
+            android:id="@+id/SignUp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/SignIn"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@id/new_user"
+            android:paddingLeft="10dp"
+            android:text="Sign Up"
+            android:textAllCaps="false"
+            android:textColor="@color/color300Teal" />
+
+        <TextView
+            android:id="@+id/forget_password"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/SignIn"
+            android:layout_marginTop="10dp"
+            android:text="Forget Password"
+            android:textColor="@color/color300Teal" />
+
+    </RelativeLayout>
+</RelativeLayout>
